@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    text-align: center;
+    margin:auto;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    color: aqua;
+    border-radius: 25px;
+  
+
+}
+  hr {
+               border: 1px solid white ;
+               border-style:inset;
+               border-radius: 12px;
+               width: 100%;
+              border-color: white;
+               padding: 0px;
+  }
+  h1{
+      color: black;
+
+  }
+      h3{
+
+        color: black;
+      }    
+     
+
